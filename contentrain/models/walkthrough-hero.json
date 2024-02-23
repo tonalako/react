@@ -58,5 +58,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "walkthrough-hero"
+  },
+  {
+    "name": "Title",
+    "description": "Descriptions",
+    "fieldId": "title",
+    "modelId": "walkthrough-hero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
