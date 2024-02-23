@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Walkthrough Hero",
+    "description": "Hero description",
+    "modelId": "walkthrough-hero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
